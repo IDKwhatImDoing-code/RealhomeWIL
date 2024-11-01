@@ -1,0 +1,7 @@
+@use "sass:color";
+
+.list{
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+}
